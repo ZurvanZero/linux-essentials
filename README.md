@@ -36,8 +36,8 @@ The goal of this repository is to document my Linux learning journey and demonst
 Zurvan
 
 
-**ترجمه فارسی
-**
+## ترجمه پارسی 
+
 # این مخزن شامل یادداشت‌ها، تمرین‌های عملی و تمرین‌های اسکریپت‌نویسی Bash من از دوره Linux Essentials است.
 
 - محتوا
